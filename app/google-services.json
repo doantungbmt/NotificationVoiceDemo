@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552436656973",
+    "project_id": "test-voice-notification",
+    "storage_bucket": "test-voice-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552436656973:android:345f17b64213b83527e504",
+        "android_client_info": {
+          "package_name": "com.tungnd.notificationdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAFjWPNqvkTRGsYXyNBk_4F3BNH9mwyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
